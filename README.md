@@ -110,3 +110,6 @@ salary-regression/
 - Proper validation (no leakage) matters more than complex models
 - Feature engineering on tabular data is critical
 - Simpler models can outperform ensembles when well-tuned
+
+
+Link to the Kaggle competition: https://www.kaggle.com/competitions/ml-1-2026-task-2-developer-salary-prediction-regression
